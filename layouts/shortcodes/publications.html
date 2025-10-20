@@ -1,0 +1,14 @@
+{{/*
+Shortcode: publications
+Renders publications from data/publications.yaml
+Usage: {{< publications >}}
+*/}}
+
+{{ $data := .Site.Data.publications.publications }}
+<ul class="publications">
+  {{ range $data }}
+    <li>
+      <strong>{{ .title }}</strong> — {{ .authors }} ({{ .year }}). <em>{{ .venue }}</em>. <a href="{{ .url }}">link</a>
+    </li>
+  {{ end }}
+</ul>

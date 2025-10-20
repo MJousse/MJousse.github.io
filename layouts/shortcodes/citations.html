@@ -1,0 +1,14 @@
+{{/*
+Shortcode: citations
+Renders formatted citations from data/publications.yaml
+Usage: {{< citations >}}
+*/}}
+
+{{ $entries := .Site.Data.publications.publications }}
+<ol class="citations">
+  {{ range $entries }}
+    <li>
+      {{ with .authors }}{{ . }}{{ end }} ({{ .year }}). <strong>{{ .title }}</strong>. {{ .venue }}. {{ with .url }}<a href="{{ . }}">{{ . }}</a>{{ end }}
+    </li>
+  {{ end }}
+</ol>
