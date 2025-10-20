@@ -2,18 +2,33 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;
 .container{max-width:880px;margin:0 auto;padding:1rem}
 /*.site-header{background:#265d0b;color:#fff;padding:1rem 0}*/
 .site-header{
-    background-image:url('img.jpg');
-    width: 100%;
-    height: 400px;
+    background:#0b3c5d;
+    color:#fff;
+    padding:1rem 0;
+}
+
+.site-header.has-bg{
+    background-image: url('/assets/img/img.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: left;
-    color: #fff;
+    position: relative;
+    padding:3rem 0;
 }
+
+.site-header.has-bg::after{
+    content: '';
+    position: absolute;
+    left:0;right:0;top:0;bottom:0;
+    background: rgba(0,0,0,0.35);
+    pointer-events: none;
+}
+
+.site-header .container{position:relative;z-index:2}
+
+.site-header h1{margin:0}
+.site-header nav{margin-top:.5rem}
+.site-header a{color:#fff;margin-right:1rem;text-decoration:none}
 /*
 .site-header h1{margin:0}
 .site-header nav{margin-top:.5rem}
