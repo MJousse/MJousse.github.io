@@ -1,0 +1,8 @@
+body{font-family:system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial;line-height:1.6;margin:0;color:#111}
+.container{max-width:880px;margin:0 auto;padding:1rem}
+.site-header{background:#0b3c5d;color:#fff;padding:1rem 0}
+.site-header h1{margin:0}
+.site-header nav{margin-top:.5rem}
+.site-header a{color:#fff;margin-right:1rem;text-decoration:none}
+.site-footer{background:#f4f4f4;padding:1rem 0;margin-top:2rem;text-align:center}
+main h2{margin-top:0}
