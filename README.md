@@ -1,4 +1,4 @@
-Code for a personal academic website.
+Code for a personal github academic website.
 
 Run locally with Docker
 
@@ -46,4 +46,15 @@ docker compose up --build
 ```powershell
 .\run.ps1
 ```
+
+GitHub Pages deployment
+
+I added a GitHub Actions workflow at `.github/workflows/pages.yml` that builds the site with Hugo 0.119.0 and publishes the generated `public/` directory to the `gh-pages` branch. To enable GitHub Pages for this repository:
+
+1. Push your branch (usually `main`) to GitHub.
+2. The workflow will run on push and populate the `gh-pages` branch.
+3. In the repository Settings → Pages, set the source to the `gh-pages` branch (root). The site will be available at `https://MJousse.github.io/`.
+
+If you prefer Netlify, keep `netlify.toml` and deploy there instead — the repo contains sample Netlify configuration in earlier commits.
+
 
