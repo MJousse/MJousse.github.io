@@ -16,13 +16,11 @@ Below are a few my areas of interest and past/current research!
 
 I am a student member of the [Ai for Biodiversity Change (ABC)](https://www.biodiversityai.org/) Global Center. This academic group aims to "develop new AI-enabled, data-supported approaches for understanding the impacts of environmental changes on biodiversity".
 
-As part of this group, I was part of research aiming to leverage different sensors and computer vision to monitor an ecosystem undergoing restoration.
+As part of this group, I was part of research aiming to leverage different sensors and computer vision to monitor an ecosystem undergoing restoration. Additionally, I was part of a group looking at how best to optimize digitization of specimens to enable FAIR downstream uses.
 
 ::: publication
 Yuyan Chen, Valentin Gabeff, **Maximiliane Jousse**, Ted Zolotarev, Ekatarina Neopvinnykh, Micheal Long, Dan Rubenstein (2025). Scaling up Multi-Sensor Monitoring of Forest Restoration with Computer Vision and Deep Learning: A Case Study from Hawai'i. *ICCV - CV4E* (Non-Archival). <https://cv4e.netlify.app/papers/10_2025_na.pdf>
 :::
-
-Additionally, I was part of a group looking at how best to optimize digitization of specimens to enable FAIR downstream uses. 
 
 ::: publication
 East, Alyson; Campolongo, Elizabeth; Meyers, Luke; Rayeed, S M; Stevens, Samuel; Zarubiieva, Iuliia; E. Fluck, Isadora; Girón, Jennifer; **Jousse, Maximiliane**; Lowe, Scott; Perry, Kayla; Betancourt, Isabelle; Charney, Noah; Donoso, Evan; Fox, Nathan; Landsbergen, Kim; Nepovinnykh, Ekaterina; Ramirez, Michelle; Singh, Parkash; Thapa-Magar, Khum; Thompson, Matthew; Waite, Evan; Berger-Wolf, Tanya; Lapp, Hilmar; Mabee, Paula; Taylor, Graham; Record, Sydne (2025). Optimizing Image Capture for Computer Vision-Powered Taxonomic Identification and Trait Recognition of Biodiversity Specimens. *Methods in Ecology and Evolution*. <https://doi.org/10.1111/2041-210X.70140>
@@ -37,15 +35,18 @@ East, Alyson; Campolongo, Elizabeth; Meyers, Luke; Rayeed, S M; Stevens, Samuel;
 :::
 
 ### Carbon Accounting in a small community
+
 Tropical forests store about one quarter of all terrestrial carbon and have the potential for re-creating carbon sinks through reforestation. The Bayano-McGill Reforestation Project, established in 2020, aims to offset part of the university’s carbon emissions through planting and maintaining reforested plots in two Embera communities: Piriati and Ipeti.
 
-Indigenous communities are stewards, owners or have legally designated rights to about a quarter of the world’s global forest estate, more than a third of intact forest landscapes, and almost a fifth of forest carbon stocks. This project slots itself into a framework that aims to foster community engagement and individual scientific and environmental interest within the Embera communities of Lake Bayano Area. This framework consits of a series of teaching workshops focused on technological advances, and of independent action. Previous workshops included a Computer Literacy Workshop (2019), an Introduction to Computers and EXCEL Workshop (2022), and a What is Carbon? Workshop (2022). Independent action, supported by the Bayano-McGill Reforestation Project, include planting the reforestation plots, and following this project the continual monitoring of carbon stocks in reforested plots.
+Indigenous communities are stewards, owners or have legally designated rights to about a quarter of the world’s global forest estate, more than a third of intact forest landscapes, and almost a fifth of forest carbon stocks. This project slots itself into a framework that aims to foster community engagement and individual scientific and environmental interest within the Embera communities of Lake Bayano Area.
 
 This project thus aimed to create a sustainable and accessible way for participants of the project to monitor their reforested plots independently. A carbon calculator was created, and a 3-day workshop led to the creation of a protocol and documentation to be followed.
 
 See my dedicated [github repository](https://github.com/MJousse/CarbonAccounting)!
 
 ## Biodiversity Indicators
+
+Biodiversity indicators are metrics developed to be used in biodiversity monitoring and policy to measure progress towards a goal or deviation from a historical baseline. These are widely used in the Kunming-Montreal Global Biodiversity Framework and associated reporting.
 
 ### Assessing Indicators
 
@@ -64,4 +65,3 @@ Katherine Hébert, Dagoberto Hernandez Acevedo, Sabrina Courant, Caroline Daguet
 :::
 
 ## Other work
-
