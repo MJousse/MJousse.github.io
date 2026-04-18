@@ -19,4 +19,4 @@ about:
 
 Welcome to my website :) I am a Quantitative Life Sciences PhD Student in Dr. Laura Pollock's [Lab](<https://qbiodiversity.org/>) at McGill University in Montreal, Canada.
 
-My PhD research centers on biotic interactions in macroecology. Specifically, i look at integrating trophic interactions in species distribution models to better model the effects of climate change on species distributions. For more information check out my [Research](https://MJousse.github.io/research/) tab!
+My PhD research centers on biotic interactions in macroecology. Specifically, i look at integrating trophic interactions in species distribution models to better model the effects of climate change on species distributions. For more information check out my [Research](https://mjousse.github.io/research.html) tab!
