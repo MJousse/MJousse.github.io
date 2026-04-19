@@ -4,7 +4,7 @@ sidebar:
   search: true
 ---
 
-Below are a few my areas of interest and past/current research!
+Below are a few my areas of interest and past/current research! My interests span many topics, but the central theme of my research is biodiversity conservation, including how best to safeguard existing biodiversity, planning for future biodiversity loss and the effects of climate change, and conservation policy.
 
 ## Biotic Interactions
 
