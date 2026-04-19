@@ -32,6 +32,8 @@ I am a student member of the [Ai for Biodiversity Change (ABC)](https://www.biod
 
 As part of this group, I was part of research aiming to leverage different sensors and computer vision to monitor an ecosystem undergoing restoration. Additionally, I was part of a group looking at how best to optimize digitization of specimens to enable FAIR downstream uses.
 
+Additionally, I am interested in leveraging Computer Vision methods to extract secondary data from public biodiversity image repositories. In particular, I am interested in the potential to harvest biotic interaction information from iNaturalist images.
+
 ::: publication
 Yuyan Chen, Valentin Gabeff, **Maximiliane Jousse**, Ted Zolotarev, Ekatarina Neopvinnykh, Micheal Long, Dan Rubenstein (2025). Scaling up Multi-Sensor Monitoring of Forest Restoration with Computer Vision and Deep Learning: A Case Study from Hawai'i. *ICCV - CV4E* (Non-Archival). <https://cv4e.netlify.app/papers/10_2025_na.pdf>
 :::
@@ -80,6 +82,8 @@ Katherine Hébert, Dagoberto Hernandez Acevedo, Sabrina Courant, Caroline Daguet
 
 ## Other Research
 
--   Using Ordinary Differential Equations to model dynamical systems (with Dr. Guichard, McGill and Dr. Bonsall, Oxford)
+-   [Blitz The Gap](https://pollocklab.github.io/blitz-the-gap/) (2025, 2026)
 
--   Leveraging Big Data to understand patterns of avian distributions in North America (with Dr. Caron and Dr. Pollock, McGill)
+-   Using Ordinary Differential Equations to model dynamical systems with Dr. Guichard, McGill (2022) and Dr. Bonsall, Oxford (2022).
+
+-   Leveraging Big Data to understand patterns of avian distributions in North America with Dr. Caron and Dr. Pollock, McGill (2023).
