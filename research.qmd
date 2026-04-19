@@ -8,9 +8,23 @@ Below are a few my areas of interest and past/current research!
 
 ## Biotic Interactions
 
+### Species Distribution Modelling with Interactions
+
+My current work looks at the effects of incorporating species interactions in Species Distribution Modelling. Specifically, i am interested in 1) how much does adding biotic interactions affect our modelling abilities, and 2) How the inclusion of biotic interactions change our predictions under climate change.
+
+### Biotic Interactions & Conservation
+
+I am also interested in the interplay between species interactions and conservation challenges.
+
+:::publication
+**Maximiliane Jousse**, Pierre Rogy, Laura J. Pollock. Biotic interactions in conservation decision making. Book chapter for *Biotic Interactions across Gradients and Scales*. In review.
+:::
+
 ## AI And Ecology
 
 ### Recommendations for AI use in Conservation
+
+Artificial Intelligence regroups many different methods with wide ranging applications. In recent years, we see many exciting and potential applications of AI in ecology and conservation. In collaboration with Dr. Hebert and Dr. Pollock, I looked at potential applications of AI, as well as risks and benefits of implementing these methods in conservation organisations. Our work informed reports to Parks Canada and Environment Climate Change Canada.
 
 ### Applied AI to Ecology
 
@@ -64,4 +78,8 @@ Katherine Hébert, **Maximiliane Jousse**, Janaína Serrano, Dirk Nikolaus Karge
 Katherine Hébert, Dagoberto Hernandez Acevedo, Sabrina Courant, Caroline Daguet, Andrew Gonzalez, Dominique Gravel, Jean Huot, **Maximiliane Jousse**, Janaína Serrano, Anouk Simard, Laura Pollock (2025). Selecting indicators to track progress towards the Global Biodiversity Framework: A case study of Quebec's 2030 Nature Plans. *FACETS*. <https://www.facetsjournal.com/doi/10.1139/facets-2024-0357>
 :::
 
-## Other work
+## Other Research
+
+-   Using Ordinary Differential Equations to model dynamical systems (with Dr. Guichard, McGill and Dr. Bonsall, Oxford)
+
+-   Leveraging Big Data to understand patterns of avian distributions in North America (with Dr. Caron and Dr. Pollock, McGill)
